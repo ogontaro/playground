@@ -1,4 +1,4 @@
-_commit: 39a645b
+_commit: bb08160
 _src_path: https://github.com/ogontaro/templates_common.git
-github_runner_scale_set_name: playground
+github_runner_scale_set_name: ''
 project_name: playground
